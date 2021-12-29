@@ -1,0 +1,13 @@
+package myretail.mypayment;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MypaymentApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
